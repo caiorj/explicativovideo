@@ -66,8 +66,12 @@ function art(name,t,u){const p=ease(u*1.7);let r='';
  r+=use('heart',0,-245,.65,'ink blue');
  }
  if(name==='hands'){
- r+=group(0,-120,.77,use('home'))+group(0,-94,.35,family(t));
- r+=`<g class="ink"><path d="M-341 204l85-102q15-18 38-7l115 63H97q51 0 45 36q-3 29-53 29h-157M-173 240l174 49q23 6 44-6l230-146q33-22 48 2q14 22-17 48L91 356q-26 20-58 13l-235-48-69 70M-351 199l88 108-77 85-89-106Z" fill="${P}"/><path d="M-347 225l56 69" class="blue"/></g>`;
+ r+=group(0,-45,1.05,use('shield'));
+ r+=group(0,-45,.80,family(t));
+ r+=`<g class="ink blue"><circle cx="214" cy="155" r="56" fill="#22262c" stroke-width="4"/></g>`;
+ r+=txt(214,169,'R$',36);
+ r+=`<rect x="-250" y="273" width="500" height="86" rx="14" class="card"/>`;
+ r+=txt(0,326,'APOIO À FAMÍLIA',25,'micro');
  }
  if(name==='worker'){
  r+=`<circle cx="0" cy="-30" r="240" class="soft"/>`+person(-38,20,1.25,'dad',t)+use('bag',-188,224,.79)+use('heart',173,-130,.75,'ink blue');

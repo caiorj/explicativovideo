@@ -2,15 +2,17 @@
 
 Vídeo de 60 segundos, vertical (1080 × 1920), com narração fornecida pelo autor.
 
-## Versão atual: personagens revisados
+## Versão atual: personagens revisados e cena de apoio corrigida
 
 Família redesenhada em 2D, com rostos, mãos, roupas e proporções mais naturais. Os mesmos personagens aparecem em todas as cenas; o enquadramento e o alinhamento foram ajustados para cada composição.
+
+A cena de apoio financeiro foi refeita: a família aparece protegida por um escudo, com símbolo de apoio financeiro. A mão deformada foi removida.
 
 Mantém textos dourados, fundo em degradê preto e cinza com quadriculado e ausência da barra de progresso.
 
 ![Prévia da versão atual](videos/capa-personagens-revisados.jpg)
 
-[Ver o vídeo atual](videos/seguro-de-vida-personagens-revisados-60s.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/seguro-de-vida-personagens-revisados-60s.mp4)
+[Ver o vídeo atual](videos/seguro-de-vida-cena-corrigida-60s.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/seguro-de-vida-cena-corrigida-60s.mp4)
 
 ## Versões anteriores
 
