@@ -1,0 +1,108 @@
+[
+  {
+    "a": 0,
+    "b": 4.55,
+    "label": "A ROTINA",
+    "title": "Todo dia começa",
+    "accent": "quase do mesmo jeito.",
+    "art": "morning"
+  },
+  {
+    "a": 4.55,
+    "b": 8.15,
+    "label": "QUEM FICA",
+    "title": "Antes de sair,",
+    "accent": "tem quem te espere.",
+    "art": "door"
+  },
+  {
+    "a": 8.15,
+    "b": 10.5,
+    "label": "A DESPEDIDA",
+    "title": "“Mais tarde",
+    "accent": "eu tô de volta.”",
+    "art": "return"
+  },
+  {
+    "a": 10.5,
+    "b": 14.05,
+    "label": "OS PLANOS",
+    "title": "Tanta coisa",
+    "accent": "depende de você.",
+    "art": "bills"
+  },
+  {
+    "a": 14.05,
+    "b": 18.5,
+    "label": "A PERGUNTA",
+    "title": "E se eu faltar?",
+    "accent": "Como eles ficam?",
+    "art": "question"
+  },
+  {
+    "a": 18.5,
+    "b": 21.25,
+    "label": "A PROTEÇÃO",
+    "title": "Seguro de vida.",
+    "accent": "Cuidado que se planeja.",
+    "art": "shield"
+  },
+  {
+    "a": 21.25,
+    "b": 26.9,
+    "label": "UM APOIO À FAMÍLIA",
+    "title": "A vida muda.",
+    "accent": "As contas continuam.",
+    "art": "support",
+    "note": "Benefícios conforme as coberturas contratadas."
+  },
+  {
+    "a": 26.9,
+    "b": 31,
+    "label": "CUIDADO COM VOCÊ",
+    "title": "Proteção também",
+    "accent": "durante a vida.",
+    "art": "health",
+    "note": "Invalidez e doenças graves: conforme a apólice."
+  },
+  {
+    "a": 31,
+    "b": 33.85,
+    "label": "O QUE TEM VALOR",
+    "title": "Nenhum seguro",
+    "accent": "substitui um abraço.",
+    "art": "hug"
+  },
+  {
+    "a": 33.85,
+    "b": 36.4,
+    "label": "NA HORA DIFÍCIL",
+    "title": "Um apoio financeiro.",
+    "accent": "Um pouco de fôlego.",
+    "art": "hands"
+  },
+  {
+    "a": 36.4,
+    "b": 38.75,
+    "label": "QUEM VOCÊ AMA",
+    "title": "Você cuida",
+    "accent": "todos os dias.",
+    "art": "worker"
+  },
+  {
+    "a": 38.75,
+    "b": 43.65,
+    "label": "O AMANHÃ",
+    "title": "Planejar também",
+    "accent": "é uma forma de amar.",
+    "art": "future"
+  },
+  {
+    "a": 43.65,
+    "b": 48,
+    "label": "PARA PENSAR",
+    "title": "Quem você ama.",
+    "accent": "O futuro que importa.",
+    "art": "final"
+  }
+]

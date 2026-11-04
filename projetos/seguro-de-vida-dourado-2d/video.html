@@ -1,0 +1,98 @@
+<!doctype html><html lang="pt-BR"><meta charset="utf-8"><style>
+@font-face{font-family:Sans;src:url('file:///usr/share/fonts/truetype/dejavu/DejaVuSans.ttf')}@font-face{font-family:Sans;src:url('file:///usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf');font-weight:700}@font-face{font-family:Editorial;src:url('file:///usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf');font-style:italic}*{box-sizing:border-box}html,body{margin:0;background:#fcfcfa;width:1080px;height:1920px;overflow:hidden}svg{width:1080px;height:1920px}text{font-family:Sans,sans-serif;fill:#17202a}.serif{font-family:Editorial,serif;font-style:italic;fill:#d8b56b}.ink{stroke:#17202a;stroke-width:5;fill:none;stroke-linecap:round;stroke-linejoin:round}.blue{stroke:#d8b56b}.fillblue{fill:#d8b56b}.paper{fill:#fcfcfa}.thin{stroke-width:3}.soft{fill:#292c30}.card{fill:white;stroke:#17202a;stroke-width:3}.muted{fill:#76808d}.micro{font-size:22px;letter-spacing:3px}.small{font-size:28px}.medium{font-size:37px}.headline{font-size:64px;letter-spacing:-2.5px}.accent{font-size:79px;letter-spacing:-1px}#caption{font-family:Sans;font-size:34px;line-height:1.5;color:#26313e;position:absolute;top:1470px;left:140px;width:800px;text-align:center;min-height:120px}#caption em{font-style:normal;color:#d8b56b;text-decoration:underline;text-underline-offset:7px;text-decoration-thickness:2px}#note{position:absolute;top:1645px;left:120px;width:840px;text-align:center;font-family:Sans;font-size:20px;color:#77818e}.shadow{fill:#17202a;opacity:.045}
+html,body{background:#111317}body{background:radial-gradient(ellipse at 34% 30%,#3a3d43 0%,#25282e 32%,#111317 67%,#08090c 100%)}#panel{position:absolute;inset:0;background-image:linear-gradient(rgba(210,215,225,.075) 1px,transparent 1px),linear-gradient(90deg,rgba(210,215,225,.075) 1px,transparent 1px);background-size:90px 90px;mask-image:radial-gradient(ellipse at 50% 45%,black 10%,rgba(0,0,0,.3) 80%)}body>svg{position:absolute;inset:0}text{fill:#efd9a9}.serif{fill:#d8b56b}.ink{stroke:#edddbd}.blue{stroke:#d8b56b}.card{fill:#22262c;stroke:#cbb88c}.muted{fill:#aaa58f}#caption{color:#e5e0d5}#caption em{color:#edc977}#note{color:#b5b0a1}.shadow{fill:#000;opacity:.12}</style><div id="panel"></div><svg viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg"><defs>
+<g id="heart"><path d="M0 27 C-8 16 -45 -5 -39 -30 C-32 -59 -7 -52 0 -36 C7 -52 32 -59 39 -30 C45 -5 8 16 0 27Z"/></g>
+<g id="cup"><path d="M-66 -43h120v66q0 49 -60 49t-60 -49Z" fill="#fcfcfa"/><path d="M54 -30h15q48 0 38 38q-6 21-53 18M-91 82h180"/><path d="M-26 -74q-24 -23 0 -47M16 -74q-24 -23 0 -47" class="blue thin"/></g>
+<g id="home"><path d="M-137 -17L0 -130L137 -17M-110 -35v159h220V-35"/><path d="M-28 124V37h57v87M-74 -5h39v40h-39ZM40 -5h39v40H40Z"/></g>
+<g id="bag"><rect x="-76" y="-45" width="152" height="112" rx="10" fill="#fcfcfa"/><path d="M-28 -45v-24h56v24M-76 -8q76 32 152 0"/><rect x="-10" y="1" width="20" height="19" rx="3" fill="#d8b56b" stroke="none"/></g>
+<g id="receipt"><path d="M-61 -91h122v182l-20 -12-20 12-20 -12-20 12-20 -12-22 12Z" fill="#fcfcfa"/><path d="M-34 -45h68M-34 -18h48M-34 10h68"/><text x="0" y="60" font-size="32" text-anchor="middle" stroke="none" fill="#d8b56b">R$</text></g>
+<g id="cart"><path d="M-98 -67h28l26 115h117l25 -85H-61M-41 5H86M-26 -36l17 83M19 -36v83M64 -36L48 47"/><circle cx="-21" cy="77" r="9"/><circle cx="66" cy="77" r="9"/></g>
+<g id="book"><path d="M-80 -76q40 -17 80 9q40 -26 80 -9V63q-40 -17-80 9q-40 -26-80 -9ZM0 -67V72M-58 -40q20 -4 35 6M-58 -15q20 -4 35 6M23 -34q20 -10 35 -6M23 -9q20 -10 35 -6" fill="#fcfcfa"/></g>
+<g id="shield"><path d="M0 -245q95 61 196 65v156q-3 173-196 253q-193 -80-196 -253v-156q101 -4 196 -65Z" fill="#292c30" stroke="#d8b56b" stroke-width="5"/></g>
+<g id="leaf"><path d="M0 0Q-85 -10 -74 -83Q-5 -86 0 0Q75 -6 68 -77Q5 -80 0 0M0 0V88"/></g>
+</defs><g id="header"></g><g id="title"></g><g id="art"></g><g id="footer"></g></svg><div id="caption"></div><div id="note"></div>
+<script>
+const B='#d8b56b',K='#17202a',P='#fcfcfa';let scenes=[],captions=[];const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));const ease=x=>1-Math.pow(1-clamp(x),3);const E=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+const txt=(x,y,s,size=30,cls='',anchor='middle')=>`<text x="${x}" y="${y}" font-size="${size}" class="${cls}" text-anchor="${anchor}">${E(s)}</text>`;const use=(name,x=0,y=0,s=1,cl='ink')=>`<g transform="translate(${x},${y}) scale(${s})" class="${cl}"><use href="#${name}"/></g>`;const group=(x,y,s,body,opacity=1)=>`<g transform="translate(${x},${y}) scale(${s})" opacity="${opacity}">${body}</g>`;
+function person(x,y,s=1,kind='dad',t=0,pose='rest'){
+ const child=kind==='kid',woman=kind==='mom';const blink=Math.sin(t*2.1)>0.994;
+ const head=`${woman?'<path d="M-50 -137q-5 -66 51 -67q61 -1 53 70l16 51H-65Z" fill="#17202a"/>':''}<path d="M-39 -157q0-42 39-42q43 0 43 43v40q-3 41-43 44q-38 -3-39-43Z" fill="${P}"/><path d="M-40 -157q-7-57 45-51q49-1 40 52l-18-25q-28 25-62 17" fill="#17202a" stroke="none"/>${blink?'<path d="M-22 -137h10M14 -137h10"/>':'<circle cx="-16" cy="-139" r="3" fill="#17202a"/><circle cx="18" cy="-139" r="3" fill="#17202a"/>'}<path d="M1 -133l-4 15h8M-13 -105q14 12 29 -1" class="thin" stroke="#17202a"/>`;
+ let body=`<path d="M-17 -74v16l-37 15q-18 7-21 36l-10 89M17 -74v16l37 15q18 7 21 36l10 89M-50 -22l4 117h91l5-117" fill="${P}"/><path d="M-46 95l-4 127M0 103v119M45 95l7 127M-50 222h-23M29 222h25"/>`;
+ if(!woman&&!child)body+=`<path d="M-18 -57L0 -33l19-24M-8 -27h16l7 69L0 60l-15-18Z" fill="${B}" stroke="${B}" stroke-width="3"/>`;
+ if(woman)body+=`<path d="M-49 -6L-70 95H70L49 -6" fill="#292c30"/><path d="M-70 95H70"/>`;
+ if(child)body+=`<path d="M-44 -25h90v79h-90" fill="#292c30" stroke="none"/><path d="M-44 54h90"/>`;
+ if(pose==='wave')body+=`<path d="M69 -4l44 -38l15 -62M119 -107l4-18M129 -102l10 -18" fill="none" stroke="${P}" stroke-width="16"/><path d="M68 -4l44 -38l15 -62M119 -107l4-18M129 -102l10 -18"/>`;
+ return group(x,y+Math.sin(t*1.4)*1.5,s,`<g class="ink" stroke-width="4.5">${body}${head}</g>`);
+}
+const family=(t,s=1)=>group(0,0,s,person(-115,0,.79,'mom',t)+person(110,0,.86,'dad',t)+person(0,90,.55,'kid',t));
+function clock(t){return `<g class="ink"><circle r="105" fill="#22262c"/><circle r="91" stroke="#635c4d" stroke-width="2"/><path d="M-78 -96l-27 -24M78 -96l27 -24M-72 85l-16 25M72 85l16 25M-121 -109q-12 -34 24 -49M121 -109q12 -34-24 -49"/><path d="M0 -64V0L${44+Math.sin(t)*3} 29" stroke="${B}"/><circle r="7" fill="${B}" stroke="none"/>${txt(0,-70,'12',17)}${txt(71,6,'3',17)}${txt(0,82,'6',17)}${txt(-72,6,'9',17)}</g>`}
+function tick(x,y,delay,u){let a=ease((u-delay)*2);return group(x,y,a,`<circle r="24" fill="${B}"/><path d="M-10 0l7 8 15-17" class="ink" style="stroke:#17202a" stroke-width="3"/>`)}
+function bubble(x,y,s){return `<g><rect x="${x-190}" y="${y-40}" width="380" height="86" rx="43" class="card" stroke="#d8b56b"/>${txt(x,y+13,s,28)}</g>`}
+function art(name,t,u){const p=ease(u*1.7);let r='';
+ if(name==='morning'){
+ r+=`<circle cx="0" cy="-40" r="270" fill="#292c30" opacity=".65"/><path d="M-360 263H360" class="ink thin" stroke="#766b54"/>`;
+ r+=group(-153,-73,1+Math.sin(t*7)*.008,clock(t));r+=group(150,18,1.22,use('cup'));
+ r+=group(0,300,1,txt(0,0,'06:30',36)+txt(0,43,'O BRASIL JÁ ACORDOU.',17,'muted micro'));
+ r+=`<g class="ink blue thin" opacity="${.5+.25*Math.sin(t*2)}"><path d="M108 -97q-17 -29 0 -57M158 -105q-17 -29 0 -57"/></g>`;
+ }
+ if(name==='door'||name==='return'){
+ r+=`<path d="M-353 248h706" class="ink thin" stroke="#766b54"/><path d="M-46 246v-440h242v440M-44 -194l194 43v397" class="ink"/><circle cx="116" cy="32" r="6" fill="${B}"/>`;
+ r+=person(-210,20,.91,'dad',t,'wave');r+=use('bag',-310,178,.6);r+=person(222,54,.74,'mom',t,'wave')+person(104,130,.47,'kid',t);
+ if(name==='door')r+=bubble(0,-308,'“Vai com Deus.”');else r+=bubble(-30,-308,'“Eu tô de volta.”');
+ r+=`<path d="M-298 289q135 42 235 0" class="ink blue thin" stroke-dasharray="6 12"/>`;
+ }
+ if(name==='bills'){
+ const items=[['receipt',-240,-45,'AS CONTAS'],['cart',0,-45,'O MERCADO'],['book',240,-45,'OS FILHOS']];
+ for(let i=0;i<3;i++){let a=ease((u-i*.22)*2);const [icon,x,y,label]=items[i];r+=group(x,y+30*(1-a),a,`<rect x="-111" y="-145" width="222" height="300" rx="12" class="card"/>${use(icon,0,-20,.83)}${txt(0,121,label,19,'micro')}`)}
+ r+=`<path d="M-240 160v48H240v-48M0 207v62" class="ink thin" stroke="#a58a53"/>`+person(0,425,.42,'dad',t);
+ }
+ if(name==='question'){
+ r+=`<circle r="268" class="soft"/>`+family(t,.88);r+=group(-290,-185,1,txt(0,0,'?',155,'serif'));
+ r+=`<path d="M-235 300q235 25 470 0" class="ink thin" stroke="#766b54"/>`;
+ }
+ if(name==='shield'){
+ r+=group(0,-5,1.25,use('shield'));r+=group(0,14,.74,family(t));r+=tick(0,310,.4,u);r+=group(0,380,1,txt(0,0,'PROTEÇÃO FINANCEIRA',22,'micro'));
+ }
+ if(name==='support'){
+ r+=group(0,-170,.54,use('shield')+group(0,20,.68,family(t)));
+ const items=[['home',-245,'MORADIA',.61],['cart',0,'ALIMENTAÇÃO',.75],['receipt',245,'DESPESAS',.78]];
+ r+=`<path d="M0 -30v74M-245 64H245M-245 64v43M245 64v43M0 64v43" class="ink blue thin"/>`;
+ items.forEach(([i,x,label,s],j)=>{let a=ease((u-.3-j*.28)*2);r+=group(x,203+25*(1-a),a,`<rect x="-111" y="-100" width="222" height="231" rx="12" class="card"/>${use(i,0,-5,s)}${txt(0,171,label,18,'micro')}`)});
+ }
+ if(name==='health'){
+ r+=`<circle cx="0" cy="-100" r="163" class="soft"/>`+person(0,-89,.85,'dad',t)+group(128,-169,.73,use('heart',0,0,1,'ink blue'));
+ let a=ease((u-.25)*1.7);r+=group(-188,258,a,`<rect x="-165" y="-55" width="330" height="110" rx="10" class="card"/>${txt(0,12,'Invalidez',31)}`);
+ let b=ease((u-.6)*1.7);r+=group(188,258,b,`<rect x="-165" y="-55" width="330" height="110" rx="10" class="card"/>${txt(0,12,'Doenças graves',29)}`);
+ r+=`<path d="M-350 355h700" class="ink thin blue"/>`;
+ }
+ if(name==='hug'){
+ r+=`<circle r="265" class="soft"/>`+group(0,30,1.18,family(t));
+ r+=`<path d="M-185 3q-8 115 159 124M185 3q8 115-159 124" class="ink" stroke-width="10"/>`+use('heart',0,-245,.65,'ink blue');
+ }
+ if(name==='hands'){
+ r+=group(0,-120,.77,use('home'))+group(0,-90,.48,family(t));
+ r+=`<g class="ink"><path d="M-341 204l85-102q15-18 38-7l115 63H97q51 0 45 36q-3 29-53 29h-157M-173 240l174 49q23 6 44-6l230-146q33-22 48 2q14 22-17 48L91 356q-26 20-58 13l-235-48-69 70M-351 199l88 108-77 85-89-106Z" fill="${P}"/><path d="M-347 225l56 69" class="blue"/></g>`;
+ }
+ if(name==='worker'){
+ r+=`<circle cx="0" cy="-30" r="240" class="soft"/>`+person(-38,20,1.25,'dad',t)+use('bag',-188,224,.79)+use('heart',173,-130,.75,'ink blue');
+ r+=`<path d="M-273 321h546" class="ink thin" stroke="#766b54"/>`;
+ }
+ if(name==='future'||name==='final'){
+ r+=`<circle cx="115" cy="-171" r="${110+Math.sin(t)*2}" fill="#292c30"/><g class="ink blue thin"><path d="M115 -314v-24M115 -4v-24M-28 -171h-24M258 -171h24M14 -272l-18-18M216 -70l18 18M216 -272l18-18"/></g>`;
+ r+=group(0,-8,1.85,use('home'));r+=group(0,0,1.05,family(t));r+=`<path d="M-350 290H350" class="ink thin" stroke="#766b54"/>`;
+ if(name==='future')r+=use('cup',-286,241,.56);else r+=group(0,385,1,`<rect x="-237" y="-43" width="474" height="88" rx="44" fill="${B}"/>${txt(0,12,'Planeje essa proteção.',28).replace('font-size','fill="#17202a" style="fill:#17202a" font-size')}`);
+ }
+ return r;
+}
+function wrapTitle(s,defaultSize){return s.length>28?defaultSize-7:s.length>24?defaultSize-3:defaultSize}
+window.init=(s,c)=>{scenes=s;captions=c};
+window.render=function(t){const original=t*.8;let idx=scenes.findIndex(s=>original>=s.a&&original<s.b);if(idx<0)idx=scenes.length-1;const s=scenes[idx];const local=t-s.a/0.8;const end=s.b/.8;const enter=ease(local/.62);const out=idx===scenes.length-1?1:clamp((end-t)/.18);const alpha=enter*out;const dy=(1-enter)*25;const count=String(idx+1).padStart(2,'0');
+ document.querySelector('#header').innerHTML=`<rect x="120" y="126" width="34" height="34" rx="5" fill="${K}"/>${txt(137,150,count,16).replace('font-size','style="fill:white" font-size')}${txt(175,150,s.label,19,'micro','start')}<path d="M120 183H960" stroke="#55544d" stroke-width="2"/>`;
+ document.querySelector('#title').innerHTML=`<g opacity="${alpha}" transform="translate(0,${dy})">${txt(540,305,s.title,wrapTitle(s.title,64),'headline')}${txt(540,401,s.accent,wrapTitle(s.accent,79),'serif accent')}<path d="M430 440Q540 432 650 440" stroke="${B}" stroke-width="2" fill="none" opacity=".75"/></g>`;
+ document.querySelector('#art').innerHTML=`<g transform="translate(540,${905+dy})" opacity="${alpha}">${art(s.art,t,local)}</g>`;
+ const c=captions.find(([a,b])=>original>=a&&original<b);let cap=c?E(c[2]):'';cap=cap.replace(/(família|cuidado|proteção|futuro|seguro de vida|quem ama|despesas|volta|abraço|trabalhar|café|depende de mim)/gi,'<em>$1</em>');
+ document.querySelector('#caption').innerHTML=cap;document.querySelector('#caption').style.opacity=c?clamp((original-c[0])/.08):0;
+ document.querySelector('#note').textContent=s.note||'';
+ document.querySelector('#footer').innerHTML=`${txt(120,1805,'SEGURO DE VIDA',18,'micro muted','start')}${txt(960,1805,'CUIDADO COM O AMANHÃ',16,'micro muted','end')}`;
+};
+</script></html>
