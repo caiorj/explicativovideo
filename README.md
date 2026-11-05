@@ -1,12 +1,12 @@
 # Guindastão — muito além do equipamento
 
-Vídeo explicativo em estilo desenhado: a caneta acompanha os traços, cores e marcações que surgem durante a narração. São 28 quadros, com fundo off-white, verde e amarelo e a logo enviada pelo usuário.
+Vídeo ilustrado com sequências que evoluem durante a narração: a análise ganha medidas, o planejamento avança e os benefícios se acumulam. A caneta aparece apenas em três marcações, com movimentos e composições variados. Fundo off-white, verde e amarelo e a logo enviada pelo usuário.
 
-![Prévia Guindastão](videos/guindastao-explicacao-desenhada-capa.jpg)
+![Prévia Guindastão](videos/guindastao-explicacao-fluida-capa.jpg)
 
-[Ver o vídeo](videos/guindastao-explicacao-desenhada.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/guindastao-explicacao-desenhada.mp4)
+[Ver o vídeo](videos/guindastao-explicacao-fluida.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/guindastao-explicacao-fluida.mp4)
 
-[Projeto editável](projetos/guindastao-desenhado). Duração: 1min18s, com a narração original.
+[Projeto editável](projetos/guindastao-fluido). Duração: 1min18s, com a narração original.
 
 ---
 
