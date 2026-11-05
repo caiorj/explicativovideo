@@ -1,3 +1,15 @@
+# Guindastão — muito além do guindaste
+
+Vídeo vertical com a Guinda aprovada, animação de fala, narração fornecida pelo usuário e identidade off-white, verde e amarelo. Tema: o que uma empresa qualificada entrega além do equipamento.
+
+![Prévia Guindastão](videos/guindastao-alem-do-guindaste-capa.jpg)
+
+[Ver o vídeo](videos/guindastao-alem-do-guindaste.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/guindastao-alem-do-guindaste.mp4)
+
+[Projeto editável e detalhes da animação](projetos/guindastao).
+
+---
+
 # PSC Consórcios — como funciona
 
 Vídeo vertical de 45 segundos com a narração fornecida pela PSC Consórcios. Versão atual: fundo de cartolina quadriculada em degradê preto/cinza, animações coloridas e destaques dourados, incluindo a abertura com cartões animados de carro e imóvel.
