@@ -1,14 +1,14 @@
 # PSC Consórcios — como funciona
 
-Vídeo vertical de 45 segundos com a narração fornecida pela PSC Consórcios. Versão atual: fundo de cartolina quadriculada em degradê preto/cinza, destaques cinza e abertura redesenhada com cartões animados de carro e imóvel.
+Vídeo vertical de 45 segundos com a narração fornecida pela PSC Consórcios. Versão atual: fundo de cartolina quadriculada em degradê preto/cinza, animações coloridas e destaques dourados, incluindo a abertura com cartões animados de carro e imóvel.
 
-![Prévia PSC Consórcios](videos/psc-consorcios-cartolina-cinza-capa.jpg)
+![Prévia PSC Consórcios](videos/psc-consorcios-colorido-dourado-capa.jpg)
 
-[Ver o vídeo](videos/psc-consorcios-cartolina-cinza.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/psc-consorcios-cartolina-cinza.mp4)
+[Ver o vídeo](videos/psc-consorcios-colorido-dourado.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/psc-consorcios-colorido-dourado.mp4)
 
-[Projeto editável](projetos/psc-consorcios-cinza) — marca, abertura, cenas, textos e renderizador.
+[Projeto editável](projetos/psc-consorcios-colorido) — marca, abertura, cenas, textos e renderizador.
 
-[Versão anterior em azul](videos/psc-consorcios-como-funciona.mp4).
+[Versão anterior cinza](videos/psc-consorcios-cartolina-cinza.mp4) · [Primeira versão azul](videos/psc-consorcios-como-funciona.mp4).
 
 ---
 

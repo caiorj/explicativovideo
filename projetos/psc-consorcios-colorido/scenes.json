@@ -1,0 +1,101 @@
+[
+  {
+    "a": 0,
+    "b": 3.75,
+    "title": [
+      "SEU PRÓXIMO",
+      "PATRIMÔNIO?"
+    ],
+    "accent": 1,
+    "tag": "UM OBJETIVO. UM PLANEJAMENTO.",
+    "art": "goals"
+  },
+  {
+    "a": 3.75,
+    "b": 8.7,
+    "title": [
+      "SEU OBJETIVO COMEÇA",
+      "NO PLANEJAMENTO."
+    ],
+    "accent": 1,
+    "tag": "CARRO OU IMÓVEL",
+    "art": "goals"
+  },
+  {
+    "a": 8.7,
+    "b": 12.9,
+    "title": [
+      "UM GRUPO.",
+      "UM OBJETIVO."
+    ],
+    "accent": 1,
+    "tag": "PARCELAS MENSAIS",
+    "art": "group"
+  },
+  {
+    "a": 12.9,
+    "b": 16.7,
+    "title": [
+      "AS PARCELAS FORMAM",
+      "UM FUNDO COMUM."
+    ],
+    "accent": 1,
+    "tag": "ADMINISTRADORA AUTORIZADA PELO BANCO CENTRAL",
+    "art": "fund"
+  },
+  {
+    "a": 16.7,
+    "b": 22.7,
+    "title": [
+      "CONTEMPLAÇÃO:",
+      "SORTEIO OU LANCE."
+    ],
+    "accent": 1,
+    "tag": "CARTA DE CRÉDITO • CONDIÇÕES DO CONTRATO",
+    "art": "credit"
+  },
+  {
+    "a": 22.7,
+    "b": 28.0,
+    "title": [
+      "NÃO HÁ GARANTIA DE",
+      "CONTEMPLAÇÃO IMEDIATA."
+    ],
+    "accent": 1,
+    "tag": "PARCELAS ATÉ A QUITAÇÃO",
+    "art": "warning"
+  },
+  {
+    "a": 28.0,
+    "b": 34.1,
+    "title": [
+      "SEM JUROS NÃO É",
+      "SEM CUSTOS."
+    ],
+    "accent": 1,
+    "tag": "TAXAS, CUSTOS E REAJUSTES CONFORME CONTRATO",
+    "art": "costs"
+  },
+  {
+    "a": 34.1,
+    "b": 37.4,
+    "title": [
+      "CONSTRUIR PATRIMÔNIO",
+      "PEDE PLANEJAMENTO."
+    ],
+    "accent": 1,
+    "tag": "ESCOLHAS CONSCIENTES",
+    "art": "planning"
+  },
+  {
+    "a": 37.4,
+    "b": 45,
+    "title": [
+      "SEUS OBJETIVOS.",
+      "O SEU PLANEJAMENTO."
+    ],
+    "accent": 1,
+    "tag": "PSC CONSÓRCIOS",
+    "art": "brand"
+  }
+]
