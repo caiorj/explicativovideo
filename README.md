@@ -1,12 +1,12 @@
-# Guindastão — muito além do guindaste
+# Guindastão — muito além do equipamento
 
-Vídeo vertical com a Guinda aprovada, animação de fala, narração fornecida pelo usuário e identidade off-white, verde e amarelo. Tema: o que uma empresa qualificada entrega além do equipamento.
+Vídeo explicativo com equipamentos e processos animados em 3D, no formato da PSC Consórcios. Versão atual sem a personagem Guinda, com a logo enviada pelo usuário e a identidade off-white, verde e amarelo.
 
-![Prévia Guindastão](videos/guindastao-alem-do-guindaste-capa.jpg)
+![Prévia Guindastão](videos/guindastao-operacao-qualificada-capa.jpg)
 
-[Ver o vídeo](videos/guindastao-alem-do-guindaste.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/guindastao-alem-do-guindaste.mp4)
+[Ver o vídeo](videos/guindastao-operacao-qualificada.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/guindastao-operacao-qualificada.mp4)
 
-[Projeto editável e detalhes da animação](projetos/guindastao).
+[Projeto editável](projetos/guindastao-explicativo). Duração: 1min18s, com a narração original.
 
 ---
 

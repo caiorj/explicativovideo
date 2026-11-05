@@ -1,0 +1,135 @@
+[
+  {
+    "a": 0,
+    "b": 6.5,
+    "title": [
+      "VOCÊ CONTRATA",
+      "SÓ A MÁQUINA?"
+    ],
+    "accent": 1,
+    "eyebrow": "ALÉM DO EQUIPAMENTO",
+    "art": "intro"
+  },
+  {
+    "a": 6.5,
+    "b": 12.6,
+    "title": [
+      "UM GUINDASTE É FUNDAMENTAL.",
+      "A ENTREGA VAI ALÉM."
+    ],
+    "accent": 1,
+    "eyebrow": "ALÉM DO EQUIPAMENTO",
+    "art": "crane"
+  },
+  {
+    "a": 12.6,
+    "b": 21,
+    "title": [
+      "PESO. DIMENSÕES.",
+      "ALCANCE."
+    ],
+    "accent": 1,
+    "eyebrow": "ENTENDER ANTES DE EXECUTAR",
+    "art": "analysis"
+  },
+  {
+    "a": 21,
+    "b": 24,
+    "title": [
+      "ACESSO E TERRENO",
+      "TAMBÉM IMPORTAM."
+    ],
+    "accent": 1,
+    "eyebrow": "CONDIÇÕES DA OPERAÇÃO",
+    "art": "ground"
+  },
+  {
+    "a": 24,
+    "b": 31.6,
+    "title": [
+      "O EQUIPAMENTO CERTO",
+      "PARA CADA ETAPA."
+    ],
+    "accent": 1,
+    "eyebrow": "RECURSOS BEM DEFINIDOS",
+    "art": "plan"
+  },
+  {
+    "a": 31.6,
+    "b": 37,
+    "title": [
+      "PROFISSIONAIS",
+      "CAPACITADOS."
+    ],
+    "accent": 1,
+    "eyebrow": "PREPARO FAZ DIFERENÇA",
+    "art": "training"
+  },
+  {
+    "a": 37,
+    "b": 42.1,
+    "title": [
+      "INSPEÇÃO.",
+      "COMUNICAÇÃO CLARA."
+    ],
+    "accent": 1,
+    "eyebrow": "EQUIPAMENTOS E PESSOAS",
+    "art": "inspection"
+  },
+  {
+    "a": 42.1,
+    "b": 48.1,
+    "title": [
+      "MAIS SEGURANÇA.",
+      "MENOS IMPREVISTOS."
+    ],
+    "accent": 1,
+    "eyebrow": "BENEFÍCIOS PARA A OPERAÇÃO",
+    "art": "safety"
+  },
+  {
+    "a": 48.1,
+    "b": 52.8,
+    "title": [
+      "MENOR RISCO DE DANOS.",
+      "MAIS PREVISIBILIDADE."
+    ],
+    "accent": 1,
+    "eyebrow": "CUIDADO COM O SEU NEGÓCIO",
+    "art": "benefits"
+  },
+  {
+    "a": 52.8,
+    "b": 58.5,
+    "title": [
+      "TUDO COMEÇA",
+      "NO PLANEJAMENTO."
+    ],
+    "accent": 1,
+    "eyebrow": "ANTES DE LEVANTAR A CARGA",
+    "art": "planning"
+  },
+  {
+    "a": 58.5,
+    "b": 67.4,
+    "title": [
+      "PREPARO.",
+      "RESPONSABILIDADE.",
+      "COMPROMISSO."
+    ],
+    "accent": 2,
+    "eyebrow": "MUITO ALÉM DO GUINDASTE",
+    "art": "values"
+  },
+  {
+    "a": 67.4,
+    "b": 78,
+    "title": [
+      "MOVIMENTAÇÃO DE CARGAS",
+      "COM SEGURANÇA."
+    ],
+    "accent": 1,
+    "eyebrow": "GUINDASTÃO",
+    "art": "outro"
+  }
+]
