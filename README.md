@@ -1,3 +1,15 @@
+# PSC Consórcios — como funciona
+
+Vídeo vertical de 45 segundos com a narração fornecida pela PSC Consórcios e animações explicativas inspiradas na referência enviada.
+
+![Prévia PSC Consórcios](videos/psc-consorcios-capa.jpg)
+
+[Ver o vídeo](videos/psc-consorcios-como-funciona.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/psc-consorcios-como-funciona.mp4)
+
+[Projeto editável](projetos/psc-consorcios) — marca, cenas 3D, textos e renderizador.
+
+---
+
 # Seguro de vida — cuidado com o amanhã
 
 Vídeo de 60 segundos, vertical (1080 × 1920), com narração fornecida pelo autor.
