@@ -1,12 +1,12 @@
 # Guindastão — muito além do equipamento
 
-Vídeo explicativo com equipamentos e processos animados em 3D, no formato da PSC Consórcios. Versão atual sem a personagem Guinda, com a logo enviada pelo usuário e a identidade off-white, verde e amarelo.
+Vídeo explicativo em estilo desenhado: a caneta acompanha os traços, cores e marcações que surgem durante a narração. São 28 quadros, com fundo off-white, verde e amarelo e a logo enviada pelo usuário.
 
-![Prévia Guindastão](videos/guindastao-operacao-qualificada-capa.jpg)
+![Prévia Guindastão](videos/guindastao-explicacao-desenhada-capa.jpg)
 
-[Ver o vídeo](videos/guindastao-operacao-qualificada.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/guindastao-operacao-qualificada.mp4)
+[Ver o vídeo](videos/guindastao-explicacao-desenhada.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/guindastao-explicacao-desenhada.mp4)
 
-[Projeto editável](projetos/guindastao-explicativo). Duração: 1min18s, com a narração original.
+[Projeto editável](projetos/guindastao-desenhado). Duração: 1min18s, com a narração original.
 
 ---
 

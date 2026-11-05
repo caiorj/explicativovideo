@@ -1,0 +1,254 @@
+[
+  {
+    "a": 0,
+    "b": 4,
+    "title": [
+      "ANTES DE CONTRATAR,",
+      "OLHE A OPERAÇÃO."
+    ],
+    "art": "crane"
+  },
+  {
+    "a": 4,
+    "b": 6.5,
+    "title": [
+      "VOCÊ AVALIA SÓ",
+      "O EQUIPAMENTO?"
+    ],
+    "art": "focus"
+  },
+  {
+    "a": 6.5,
+    "b": 8.8,
+    "title": [
+      "O GUINDASTE",
+      "É FUNDAMENTAL."
+    ],
+    "art": "crane"
+  },
+  {
+    "a": 8.8,
+    "b": 12.6,
+    "title": [
+      "UMA EMPRESA QUALIFICADA",
+      "ENTREGA MUITO MAIS."
+    ],
+    "art": "network"
+  },
+  {
+    "a": 12.6,
+    "b": 16.7,
+    "title": [
+      "PRIMEIRO, ENTENDER",
+      "TODA A OPERAÇÃO."
+    ],
+    "art": "plan"
+  },
+  {
+    "a": 16.7,
+    "b": 17.9,
+    "title": [
+      "COMEÇA PELO",
+      "PESO DA CARGA."
+    ],
+    "art": "weight"
+  },
+  {
+    "a": 17.9,
+    "b": 19.3,
+    "title": [
+      "E PELAS",
+      "DIMENSÕES."
+    ],
+    "art": "dimensions"
+  },
+  {
+    "a": 19.3,
+    "b": 21,
+    "title": [
+      "SEM ESQUECER",
+      "O ALCANCE."
+    ],
+    "art": "reach"
+  },
+  {
+    "a": 21,
+    "b": 24,
+    "title": [
+      "ACESSO E TERRENO",
+      "TAMBÉM IMPORTAM."
+    ],
+    "art": "ground"
+  },
+  {
+    "a": 24,
+    "b": 27.8,
+    "title": [
+      "O EQUIPAMENTO CERTO",
+      "PARA A OPERAÇÃO."
+    ],
+    "art": "selection"
+  },
+  {
+    "a": 27.8,
+    "b": 29.6,
+    "title": [
+      "CADA RECURSO",
+      "TEM SEU PAPEL."
+    ],
+    "art": "resources"
+  },
+  {
+    "a": 29.6,
+    "b": 31.6,
+    "title": [
+      "CUIDADO EM",
+      "CADA ETAPA."
+    ],
+    "art": "steps"
+  },
+  {
+    "a": 31.6,
+    "b": 34,
+    "title": [
+      "NÃO BASTA",
+      "TER A MÁQUINA."
+    ],
+    "art": "focus"
+  },
+  {
+    "a": 34,
+    "b": 37,
+    "title": [
+      "PROFISSIONAIS",
+      "CAPACITADOS."
+    ],
+    "art": "training"
+  },
+  {
+    "a": 37,
+    "b": 39.3,
+    "title": [
+      "EQUIPAMENTOS",
+      "INSPECIONADOS."
+    ],
+    "art": "inspection"
+  },
+  {
+    "a": 39.3,
+    "b": 42.1,
+    "title": [
+      "COMUNICAÇÃO CLARA",
+      "ENTRE AS EQUIPES."
+    ],
+    "art": "radio"
+  },
+  {
+    "a": 42.1,
+    "b": 46.3,
+    "title": [
+      "MAIS SEGURANÇA",
+      "PARA A OPERAÇÃO."
+    ],
+    "art": "safety"
+  },
+  {
+    "a": 46.3,
+    "b": 48.1,
+    "title": [
+      "MENOS",
+      "IMPREVISTOS."
+    ],
+    "art": "calendar"
+  },
+  {
+    "a": 48.1,
+    "b": 50.1,
+    "title": [
+      "MENOR RISCO",
+      "DE DANOS."
+    ],
+    "art": "protected"
+  },
+  {
+    "a": 50.1,
+    "b": 52.8,
+    "title": [
+      "MAIS",
+      "PREVISIBILIDADE."
+    ],
+    "art": "schedule"
+  },
+  {
+    "a": 52.8,
+    "b": 56.2,
+    "title": [
+      "ANTES DE A CARGA",
+      "SAIR DO CHÃO..."
+    ],
+    "art": "crane"
+  },
+  {
+    "a": 56.2,
+    "b": 58.5,
+    "title": [
+      "TUDO COMEÇA",
+      "NO PLANEJAMENTO."
+    ],
+    "art": "plan"
+  },
+  {
+    "a": 58.5,
+    "b": 62.4,
+    "title": [
+      "PROCURE MAIS",
+      "DO QUE UM GUINDASTE."
+    ],
+    "art": "network"
+  },
+  {
+    "a": 62.4,
+    "b": 63.8,
+    "title": [
+      "PROCURE",
+      "PREPARO."
+    ],
+    "art": "helmet"
+  },
+  {
+    "a": 63.8,
+    "b": 67.4,
+    "title": [
+      "RESPONSABILIDADE.",
+      "COMPROMISSO."
+    ],
+    "art": "commitment"
+  },
+  {
+    "a": 67.4,
+    "b": 69.6,
+    "title": [
+      "GOSTOU DESTE",
+      "CONTEÚDO?"
+    ],
+    "art": "engage"
+  },
+  {
+    "a": 69.6,
+    "b": 72.5,
+    "title": [
+      "ACOMPANHE A",
+      "GUINDASTÃO."
+    ],
+    "art": "follow"
+  },
+  {
+    "a": 72.5,
+    "b": 78,
+    "title": [
+      "MOVIMENTAÇÃO DE CARGAS",
+      "E SEGURANÇA OPERACIONAL."
+    ],
+    "art": "outro"
+  }
+]
