@@ -1,3 +1,15 @@
+# PSC Consórcios — planeje o futuro de quem você ama
+
+Novo vídeo de 54 segundos com a narração enviada: um pequeno hábito diário como ponto de partida para o planejamento patrimonial. Fundo preto/cinza quadriculado, destaques dourados e animações coloridas.
+
+![Prévia PSC — futuro](videos/psc-futuro-dez-reais-capa.jpg)
+
+[Ver o vídeo](videos/psc-futuro-dez-reais.mp4) · [Baixar MP4](https://github.com/caiorj/explicativovideo/raw/refs/heads/main/videos/psc-futuro-dez-reais.mp4)
+
+[Projeto editável](projetos/psc-futuro). R$ 10/dia é um exemplo de orçamento; valores e condições de contratação dependem do plano.
+
+---
+
 # Guindastão — muito além do equipamento
 
 Vídeo ilustrado com sequências que evoluem durante a narração: a análise ganha medidas, o planejamento avança e os benefícios se acumulam. A caneta aparece apenas em três marcações, com movimentos e composições variados. Fundo off-white, verde e amarelo e a logo enviada pelo usuário.
